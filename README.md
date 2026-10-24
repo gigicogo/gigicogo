@@ -19,7 +19,7 @@ Content creator e technical writer. Esploro AI generativa, automazioni, viaggi e
 
 ## 📝 Dove trovi i miei contenuti
 
-- Medium: [[[link](https://gigicogo.substack.com)]](https://medium.com/webeconoscenza)
+- Medium: (https://medium.com/webeconoscenza)
 - Instagram: [link]
 - YouTube: [link]
 - Substack: https://gigicogo.substack.com
