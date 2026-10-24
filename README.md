@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Gianluigi Cogo
 
-Content creator e technical writer. Esploro AI generativa, automazioni, viaggi e strumenti digitali.
+Divulgatore, formatore e technical writer. Esploro AI generativa, automazioni, viaggi e strumenti digitali.
 
 ## 🚀 Progetti in evidenza
 
@@ -19,7 +19,7 @@ Content creator e technical writer. Esploro AI generativa, automazioni, viaggi e
 
 ## 📝 Dove trovi i miei contenuti
 
-- Medium: (https://medium.com/webeconoscenza)
-- Instagram: [link]
-- YouTube: [link]
+- Medium: https://medium.com/webeconoscenza
+- Instagram: https://www.instagram.com/iasemplice/
+- YouTube: https://www.youtube.com/@gigicogo
 - Substack: https://gigicogo.substack.com
