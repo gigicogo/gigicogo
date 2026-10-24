@@ -8,7 +8,7 @@ Divulgatore, formatore e technical writer. Esploro AI generativa, automazioni, v
 |---|---|---|
 | [ViaggiAI](https://github.com/gigicogo/ViaggiAI) | App di supporto ai viaggi sviluppata con vibe coding | AI, web |
 | [Sindaco-AI](https://github.com/gigicogo/Sindaco-AI) | Sindaco virtuale per Venezia 2026 | AI, NLP |
-| [Elezioni-Venezia-2026](https://github.com/gigicogo/Elezioni-Venezia-2026) | Base di conoscenza su elezioni comunali | Documentazione |
+| [Laboratorio AI Act](https://gigicogo.github.io/Commissione-IA/)) | Laboratorio decisionale sull’AI Act per dipendenti della Pubblica Amministrazione italiana. | AI, web |
 
 ## 🧠 Aree di interesse
 
