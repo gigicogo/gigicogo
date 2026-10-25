@@ -19,7 +19,7 @@ Divulgatore, formatore e technical writer. Esploro AI generativa, automazioni, v
 
 ## 📝 Dove trovi i miei contenuti
 
-- Medium: https://medium.com/webeconoscenza
-- Instagram: https://www.instagram.com/iasemplice/
-- YouTube: https://www.youtube.com/@gigicogo
-- Substack: https://gigicogo.substack.com
+- 📮 Newsletter: [gigicogo.substack.com](https://gigicogo.substack.com)
+- 📝 Blog: [medium.com/webeconoscenza](https://medium.com/webeconoscenza)
+- ▶️ YouTube: [youtube.com/@gigicogo](https://www.youtube.com/@gigicogo)
+- 💼 LinkedIn: [linkedin.com/in/gigicogo](https://it.linkedin.com/in/gigicogo)
