@@ -13,9 +13,9 @@ Divulgatore, formatore e technical writer. Esploro AI generativa, automazioni, v
 ## 🧠 Aree di interesse
 
 - AI generativa e prompt engineering  
-- Automazioni e workflow  
-- Viaggi, contenuti e divulgazione  
+- Automazioni e workflow
 - Local LLM e strumenti open source  
+- Viaggi, contenuti e divulgazione  
 
 ## 📝 Dove trovi i miei contenuti
 
